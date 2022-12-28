@@ -1,0 +1,5 @@
+.content{
+    background: rgba(0, 0, 0, 0.6)url(./images/background-image.jpg);
+    background-blend-mode: darken;
+    
+}
